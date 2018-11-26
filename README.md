@@ -30,10 +30,6 @@ Node.js   : https://nodejs.org/en/  (Installation Guide) use current version or 
 * [Node.js] (https://nodejs.org/en/)
 * [Homebrew](https://brew.sh)
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
 ## Versioning
 
 1.0
