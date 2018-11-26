@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 This BASH script needs :
 
-Homebrew  : https://brew.sh (Installation Guide) 
+Homebrew  : https://brew.sh (Installation Guide).
 Composer  : https://getcomposer.org (Installation Guide) use global install or use brew for install.
 Node.js   : https://nodejs.org/en/  (Installation Guide) use current version or use brew for install.
 
@@ -26,9 +26,9 @@ Node.js   : https://nodejs.org/en/  (Installation Guide) use current version or 
 ## Built With
 
 * [Symfony] (https://symfony.com)
-* [Composer](https://getcomposer.org)
+* [Composer] (https://getcomposer.org)
 * [Node.js] (https://nodejs.org/en/)
-* [Homebrew](https://brew.sh)
+* [Homebrew] (https://brew.sh)
 
 ## Versioning
 
